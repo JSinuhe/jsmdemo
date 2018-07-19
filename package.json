@@ -21,7 +21,7 @@
   },
   "win":{
     "certificateFile":"private/jmdemo.pfx",
-    "verifyUpdateCodeSignature":true,
+    "verifyUpdateCodeSignature":false,
     "publisherName":"jmdemo",
     "publish":["github"]
     

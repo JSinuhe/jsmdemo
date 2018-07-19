@@ -1,4 +1,5 @@
 directories:
   output: dist
-  buildResources: build
+  buildResources: .
+appId: com.example.app
 electronVersion: 2.0.5
